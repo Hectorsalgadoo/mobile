@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Receitas</string>
+    <string name="app_title">Start cokking</string>>
+    <string name="unilimited_recipes">UNLIMITED PERMIUM RECIPES</string>
+    <string name="button_login">Login</string>
+    <string name="button_singup">Sing up</string>
 </resources>
